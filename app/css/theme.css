@@ -1,0 +1,60 @@
+[data-theme="dark"] .jumbotron {
+    background-color: #212121!important;
+}
+[data-theme="dark"] .bg-light {
+    background-color: #424242!important
+}
+[data-theme="dark"] {
+    background-color: #323232!important;
+    color:white;
+}
+[data-theme="dark"] ::selection {
+    background-color: black;
+    color:white;
+}
+[data-theme="dark"] .alert-secondary {
+    color: #1b1e21;
+    background-color: #d6d8d9;
+    border-color: #c6c8ca;
+}
+[data-theme="dark"] .card {
+    background-color: #323232!important;
+}
+[data-theme="dark"] .btn-link {
+    color: white;
+}
+::selection {
+    background-color: white;
+    color:black;
+}
+[data-theme="dark"] .footer {
+    background-color: #212121!important;
+}
+.footer {
+    background-color: #e9ecef;
+}
+
+.alert-dboy {
+    background-color:#EE7600;
+    color:white;
+}
+.alert-scientist {
+    background-color:#FAFF86;
+    color:black;
+}
+.alert-garde {
+    background-color: #727472;
+    color:white;
+}
+.alert-mtf {
+    background-color:#005EBC;
+    color:white;
+}
+.alert-chaos {
+    background-color:#228B22;
+    color:white;
+}
+.alert-scp {
+    background-color:#960018;
+    color:white;
+}
